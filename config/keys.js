@@ -1,3 +1,3 @@
 module.exports = {
-    MongoURI: 'mongodb://0.0.0.0:27017/habit_tracker'    
+    MongoURI: 'mongodb+srv://rakshitingole1:Rakshit@2329@projectbyrakshit.ic0is1r.mongodb.net/habit_tracker'
 }
